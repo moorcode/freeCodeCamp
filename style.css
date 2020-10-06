@@ -1,0 +1,31 @@
+#welcome-section{
+  display: grid;
+  align-items: center;
+}
+
+#navbar{
+  display: grid;
+  justify-items: center;
+  justify-self: center;
+}
+
+#main{
+  display: grid;
+  align-items: center;
+}
+
+.project-tile{
+  display: grid;
+  align-items: center;
+}
+
+#footer{
+  display: grid;
+  align-items: center;
+}
+
+nav{
+  display: grid;
+  justify-items: center;
+  justify-self: center;
+}

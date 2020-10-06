@@ -1,6 +1,7 @@
 #welcome-section{
   display: grid;
   align-items: center;
+  align-self: center;
 }
 
 #navbar{
@@ -12,6 +13,7 @@
 #main{
   display: grid;
   align-items: center;
+  align-self: center;
 }
 
 .project-tile{
@@ -22,6 +24,7 @@
 #footer{
   display: grid;
   align-items: center;
+  align-self: center;
 }
 
 nav{
